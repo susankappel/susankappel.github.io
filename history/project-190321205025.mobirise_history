@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "www.susankappel.com 3/17/19",
-    "currentPage": "article.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "portfoliom4",
       "title": "PortfolioM4",
@@ -37,8 +37,8 @@
     "noImageResize": "",
     "google-analytics": "",
     "siteUrl": "undefined",
-    "uniqCompNum": 56,
-    "versionPublish": "4.9.1",
+    "uniqCompNum": 55,
+    "versionPublish": "4.9.6",
     "screenshot": "screenshot.png"
   },
   "pages": {
@@ -775,7 +775,7 @@
             "slides": [
               {
                 "image": "@PROJECT_PATH@/assets/images/img-324-1632x1224.jpg",
-                "active": false,
+                "active": true,
                 "showButtons": false,
                 "showText": false,
                 "showTitle": false,
@@ -883,44 +883,6 @@
                 "text": "Acrylic, paint stick on watercolor paper<br>36\" x 24\"",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR MAC</a>",
                 "overlayOpacity": "0"
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/img-324-1632x1224.jpg",
-                "active": false,
-                "showButtons": false,
-                "showText": false,
-                "showTitle": false,
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "customStyle1": "display-1",
-                "customStyle2": "display-5",
-                "customStyle3": "display-4",
-                "title": "NEED A TITLE/PLACE for this",
-                "overlay": true,
-                "contentAlign": "left",
-                "text": "Acrylic, string, canvas, collage on acrylic<br>48\" x 48\"",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR MAC</a>",
-                "overlayOpacity": "0",
-                "overlayColor": "#000000"
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/img-30-2000x1500.jpg",
-                "active": true,
-                "showButtons": false,
-                "showText": false,
-                "showTitle": false,
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "customStyle1": "display-1",
-                "customStyle2": "display-5",
-                "customStyle3": "display-4",
-                "title": "NEED A TITLE/PLACE for this",
-                "overlay": true,
-                "contentAlign": "left",
-                "text": "Acrylic, string, canvas, collage on acrylic<br>48\" x 48\"",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR MAC</a>",
-                "overlayOpacity": "0",
-                "overlayColor": "#000000"
               }
             ]
           }
